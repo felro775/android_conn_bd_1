@@ -39,7 +39,8 @@ dependencies {
     androidTestImplementation libs.espresso.core
 
   //IMPLEMENTACION DE LA LIBRERIA MYSQL CONNECTOR PARA ANDROID
-    implementation libs.mysql.connector.java
-
+    implementation 'mysql:mysql-connector-java:5.1.49'    
+  //implementation libs.mysql.connector.java
+    
 
 }
