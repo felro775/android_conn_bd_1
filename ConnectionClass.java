@@ -7,8 +7,8 @@ public class ConnectionClass {
     protected static String db = "u254451192_Liga2425";
     protected static String ip = "193.203.166.19";
     protected static String port = "3306";
-    protected static String username = "u254451192_felro775";
-    protected static String password = "Es55143976$";
+    protected static String username = "************";
+    protected static String password = "************";
 
 
 
